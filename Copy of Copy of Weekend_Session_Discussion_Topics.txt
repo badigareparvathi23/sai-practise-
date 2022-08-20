@@ -1,5 +1,7 @@
 Note: This is a modified document.
 
+Note: Modifying this file second time to practise.
+
 https://github.com/vinaytechhouse/VINAHYTECH_PROJECT1.git
 
 
@@ -14,6 +16,7 @@ https://github.com/vinaytechhouse/VINAHYTECH_PROJECT1.git
 	              Homework: Create an account in github, create repository, place files [pbix, docs...],
 			Modify files, upload files, look at the versioning.
 		
+/* Please ignore this line just added for practise */
 
 2. Agile, Scrum, Sprint, Kick Off Metting, Standup Call, Review, Retrospecive Meetings
 [Refer to the projects document in all materials folder]
