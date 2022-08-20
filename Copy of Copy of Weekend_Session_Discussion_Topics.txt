@@ -1,0 +1,46 @@
+Note: This is a modified document.
+
+https://github.com/vinaytechhouse/VINAHYTECH_PROJECT1.git
+
+
+1.Kindly copy the URL (given in whatsapp and chat) in browser, right click-->extract-->)
+
+2. Practice Github: Create account and follow the video.
+
+	Github:
+		GitHub, Inc., is an Internet hosting service for "software development" and "version control "using Git. 
+	Git Hub work:
+			
+	              Homework: Create an account in github, create repository, place files [pbix, docs...],
+			Modify files, upload files, look at the versioning.
+		
+
+2. Agile, Scrum, Sprint, Kick Off Metting, Standup Call, Review, Retrospecive Meetings
+[Refer to the projects document in all materials folder]
+
+3. connect to browser...app.powerbi.com,...
+
+	Use the below credentials for your workspace and appspace practice
+
+	user name: vinaytech_2006@vinaytechhouse.com, password; vinaytech@2022
+	user name: vinaytech_2807@vinaytechhouse.com, password: vinaytech@2022
+
+
+YouTube Link:
+https://youtu.be/mmv3jETLWfk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
